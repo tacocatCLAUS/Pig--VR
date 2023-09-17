@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/116687416/227744480-bcb68181-0fb7-46da-8c89-d2f1d35d5feb.png">
+  **Pig VR**
 </p>
 
 <h3><p align="center">An Advanced Unblocked Operating System</p></h3>
