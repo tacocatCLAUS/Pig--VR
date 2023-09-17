@@ -7,10 +7,11 @@
   Pig VR
 </p></h1>
 
-<h3><p align="center">An Advanced Unblocked Operating System</p></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-HTML-orange?style=for-the-badge&logo=">
+  <img src="https://img.shields.io/badge/Made%20with-JS-yellow?style=for-the-badge&logo=">
+  <img src="https://img.shields.io/badge/Made%20with-AFrame-purple?style=for-the-badge&logo=">
 </p>
 
 <p align="center">
