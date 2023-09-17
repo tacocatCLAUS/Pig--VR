@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width="30" height="">
   <img src="https://github.com/tacocatCLAUS/Pig-VR/assets/116687416/15780fa9-64e4-4f41-b9d2-d21f4b471372">
 </p>
 
