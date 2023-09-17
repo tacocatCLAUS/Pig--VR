@@ -3,9 +3,9 @@
 </p>
 
 
-<p align="center">
-  **Pig VR**
-</p>
+<h1><p align="center">
+  Pig VR
+</p></h1>
 
 <h3><p align="center">An Advanced Unblocked Operating System</p></h3>
 
