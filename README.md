@@ -32,13 +32,13 @@ Pig VR is an A-Frame application written in HTML, CSS, and JavaScript, providing
 
 To get started with Pig VR, follow these simple steps:
 
-1. Ensure you have a compatible VR headset, such as Google Cardboard or an iPhone with VR support.
+1. Ensure you have a compatible VR headset, such as Google Cardboard or Google Daydream.
 2. Open the Pig VR application on your device's web browser.
 3. Use your VR headset to navigate and interact with the virtual environment.
 
 ## 🎮 Usage
 
-Pig VR offers a variety of VR experiences, including exploration, gaming, and more. Simply put on your VR headset and start enjoying the virtual world created by Pig VR.
+Pig VR offers a variety of VR experiences, including exploration, gaming, and more. Simply put on your VR headset and start enjoying the virtual world created by the Pig VR Team.
 
 ## 🤝 Contributing
 
@@ -56,5 +56,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For any questions or issues related to Pig VR, feel free to [open an issue](https://github.com/your-username/pig-vr/issues) on the GitHub repository.
+For any questions or issues related to Pig VR, feel free to [contact me](mailto:tacocatCLAUS@gmail.com) on the GitHub repository.
 
