@@ -15,10 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://repl.it/github/tacocatCLAUS/BeargleOS"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg" alt="Run on Repl.it"></a>
-  <a href="https://glitch.com/edit/#!/import/github/tacocatCLAUS/BeargleOS"><img src="https://camo.githubusercontent.com/b9ed2c6d05789a49ac411c259b7659ac0cfa03386be74f91fe6636420115ce98/68747470733a2f2f62696e6261736862616e616e612e6769746875622e696f2f6465706c6f792d627574746f6e732f627574746f6e732f72656d6164652f676c697463682e737667" alt="Remix on Glitch"></a>
-  <a href="https://www.dropbox.com/s/7bspjuhcqra72dc/Beargle%20OS.zip?dl=1"><img src="https://img.shields.io/badge/Download-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white" alt="Dropbox"></a>
-  <a href="https://beargleos.repl.co/"><img src="https://img.shields.io/badge/Run_On_Chrome-4285F4?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=white" alt="Run on Chrome"></a>
+  <a href="https://replit.com/@tacocatCLAUS/Pig-VR-Template?v=1"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg" alt="Run on Repl.it"></a>
+  <a href="https://pigvr-website.tacocatclaus.repl.co/"><img src="https://img.shields.io/badge/Run_On_Chrome-4285F4?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=white" alt="Run on Chrome"></a>
 </p>
 
 
