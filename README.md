@@ -23,25 +23,38 @@
 
 
 
-## A Fun and Engaging Web-Based Operating System
 
-Beargle OS is a web-based operating system designed to provide a fun and engaging experience for users. It includes several unblocked applications, including Minecraft and a web browser, making it a perfect choice for entertainment or educational purposes.
+## 🔍 About
 
-## Features
-**Minecraft**: Play Minecraft directly from your browser without any installation required.
+Pig VR is an A-Frame application written in HTML, CSS, and JavaScript, providing an immersive virtual reality experience for users with Google Cardboard and iPhones.
 
-**Web browser**: Access the internet without restrictions, and enjoy all the websites you want to visit.
+## ⚙️ Getting Started
 
-**Project LINK-D**: Access a collection of unblocked games and tools for students.
+To get started with Pig VR, follow these simple steps:
 
-## Getting Started
-Beargle OS is available at https://beargleos.repl.co/ and can be accessed directly from your browser. There's no need to sign in or download any software, making it an easy and convenient way to use an operating system without any setup required
-## Compatibility
-Beargle OS is designed to work on any device with an internet connection, including Chromebooks. It's perfect for when you're bored at home or want to do something fun in school.
+1. Ensure you have a compatible VR headset, such as Google Cardboard or an iPhone with VR support.
+2. Open the Pig VR application on your device's web browser.
+3. Use your VR headset to navigate and interact with the virtual environment.
 
-## Disclaimer
-Beargle OS is intended for entertainment and educational purposes only. It's not meant to be used for any illegal or unethical activity, and the creators of Beargle OS are not responsible for any misuse of the operating system. Use it responsibly and enjoy the features it provides! OK
+## 🎮 Usage
 
-## Beargle OS Client
-Beargle OS has a stylish new client avaliable at https://github.com/tacocatCLAUS/BeargleOS-Client you do need to get the advanced CLAUS Membership hut once yiu are subscribed you get access to infinite proxy link generated every day and beargle os links generated every day.
+Pig VR offers a variety of VR experiences, including exploration, gaming, and more. Simply put on your VR headset and start enjoying the virtual world created by Pig VR.
+
+## 🤝 Contributing
+
+We welcome contributions to Pig VR! If you'd like to contribute, please follow these steps:
+
+1. Fork the Pig VR repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with clear and concise commit messages.
+4. Push your changes to your fork.
+5. Create a pull request to the main Pig VR repository, explaining your changes and why they are valuable.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📧 Contact
+
+For any questions or issues related to Pig VR, feel free to [open an issue](https://github.com/your-username/pig-vr/issues) on the GitHub repository.
 
