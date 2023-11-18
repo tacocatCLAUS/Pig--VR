@@ -1,0 +1,58 @@
+n<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Pig VR Home</title>
+    <meta name="description" content="Pig VR">
+    <script src="https://aframe.io/releases/0.8.2/aframe.min.js"></script>
+    <script>
+      AFRAME.registerComponent('handle-events', {
+        init: function () {
+          var el = this.el;  // <a-image>
+          var cursor = document.querySelector('#cursor');
+
+          cursor.addEventListener('mouseenter', function () {
+            // Enlarge the cursor
+            cursor.object3D.scale.set(2, 2, 2);
+          });
+
+          cursor.addEventListener('mouseleave', function () {
+            // Reset the cursor size
+            cursor.object3D.scale.set(1, 1, 1);
+          });
+
+          el.addEventListener('mouseenter', function () {
+            // Enlarge the image immediately when the cursor hovers over it
+            el.setAttribute('animation', 'property: scale; to: 2 2 2; dur: 3000');
+          });
+
+          el.addEventListener('mouseleave', function () {
+            // Reset the image size when the cursor leaves
+            el.removeAttribute('animation');
+            el.setAttribute('scale', '1 1 1');
+          });
+
+          el.addEventListener('click', function () {
+            // Perform your click action here (e.g., open a URL)
+            window.location.href = '/v1/handler/?main'; // Replace with your desired URL
+          });
+        }
+      });
+    </script>
+  </head>
+  <body>
+    <a-scene>
+      <a-sky src="home.jpeg" rotation="0 90 0"></a-sky>
+
+      <a-image src="guide.png" width="1.5" height="1.1" position="0 1.5 -3" ></a-image>
+      <!-- Clickable Image -->
+      <a-image src="games.png" width="2" height="1" position="0 1.5 5" id="clickableImage" handle-events></a-image>
+
+      <!-- Camera + cursor. -->
+      <a-camera>
+        <a-cursor id="cursor" geometry="primitive: ring; radiusOuter: 0.016; radiusInner: 0.01" material="color: #FFF;" cursor="fuse: true; maxDistance: 8">
+        </a-cursor>
+      </a-camera>
+    </a-scene>
+  </body>
+</html>
