@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* Apply CSS to the body element */
+        body {
+            margin: 0; /* Remove default margin */
+            padding: 0; /* Remove default padding */
+            background-image: url('inconvenience.png'); /* Replace 'your-image.jpg' with the path to your image */
+            background-size: cover; /* Cover the entire viewport */
+            background-position: center; /* Center the image */
+            background-repeat: no-repeat; /* Prevent image from repeating */
+            height: 100vh; /* Set the body height to 100% of viewport height */
+        }
+    </style>
+</head>
+<body>
+    <!-- Content goes here (if any) -->
+
+    <script>
+        // Function to redirect to '/app/main.html' after 5 seconds if '?main' is in the URL
+        function redirectToMain() {
+            window.location.href = '/v1/app/main.html';
+        }
+
+        // Function to redirect to '/random' after 5 seconds if '?random' is in the URL
+        function redirectToRandom() {
+            window.location.href = '/v1/random';
+        }
+
+        // Check if the URL contains '?main'
+        if (window.location.href.includes('?main')) {
+            // Set a timeout to redirect to '/app/main.html' after 5 seconds
+            setTimeout(redirectToMain, 5000); // 5000 milliseconds = 5 seconds
+        }
+
+        // Check if the URL contains '?random'
+        if (window.location.href.includes('?random')) {
+            // Set a timeout to redirect to '/random' after 5 seconds
+            setTimeout(redirectToRandom, 5000); // 5000 milliseconds = 5 seconds
+        }
+    </script>
+</body>
+</html>
